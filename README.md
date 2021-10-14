@@ -4,7 +4,16 @@ You can use the [editor on GitHub](https://github.com/codeslacker1155/Portfolio-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Directory Structure
+-------------------
+css\              - Stylesheets CSS files for the template.
+images\           - Images used in template.
+scripts\          - JavaScript used in the template.-
+styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
+favicon.ico       - Favicon placeholder provided for the template.
+index.html        - Main HTML page to open the template in browser.
+*.html            - Additional HTML pages (if any).
+LICENSE-*.txt     - License file as per your downloaded variant.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
